@@ -1,0 +1,14 @@
+*{
+    background-color: teal;
+}
+
+nav{
+    background-color: rgb(209, 36, 36);
+    height: 10vh;
+}
+nav{
+    margin: 30px;
+    padding: 20px;
+    justify-content: space-between;
+    float: right;
+}
